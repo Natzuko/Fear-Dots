@@ -148,3 +148,5 @@ void stop() {
   minim.stop();
   exit();
 }
+
+//Desarrollado x NatZuko | Natalia Scuzarello | www.natscuzarello.com | 2024
